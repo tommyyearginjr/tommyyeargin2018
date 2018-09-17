@@ -1,7 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Welcome!](#welcome)
-<!-- Begin Lorem Ipsum, to test out in-page links.-->
+- [Welcome!](#welcome)<!-- Begin Lorem Ipsum, to test out in-page links.-->
 - [Lorem Ipsum](#lorem-ipsum)
 - [Sussudio](#phil-atio)
 # Welcome!
