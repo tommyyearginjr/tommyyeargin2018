@@ -1,4 +1,4 @@
-Well.
+For faster access, use this url: [https://tinyurl.com/y8cwluhj](https://tinyurl.com/y8cwluhj)
 
 <!--
 ## Welcome to GitHub Pages
