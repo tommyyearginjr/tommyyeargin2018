@@ -2,8 +2,7 @@
 For faster access, use this url: [https://tinyurl.com/y8cwluhj](https://tinyurl.com/y8cwluhj)
 # Table of Contents
 - [Welcome!](#welcome)
-- [Table of Contents](#table-of-contents)
-<!-- Begin Lorem Ipsum, to test out in-page links.-->
+- [Table of Contents](#table-of-contents)<!-- Begin Lorem Ipsum, to test out in-page links.-->
 - [Lorem Ipsum](#lorem-ipsum)
 - [Sussudio](#phil-atio)
 
@@ -22,14 +21,17 @@ Ut sagittis tempus ante. Nam sagittis, ligula in congue dignissim, nisl eros pul
 Nulla facilisi. Proin non augue diam. Mauris mollis diam vitae elit ultrices, finibus ultricies mauris semper. Maecenas quis odio quis turpis volutpat congue eu non dui. Sed eu aliquet neque, quis rutrum leo. Duis elit turpis, ornare ut mi a, auctor sagittis dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
 Phasellus dapibus sed magna quis tristique. Donec massa leo, mattis ac mauris vel, fringilla consectetur dui. Duis nisi erat, suscipit sit amet neque eu, luctus iaculis erat. Phasellus sed purus sem. Aenean bibendum aliquam est convallis blandit. Sed maximus ante tellus, non accumsan erat fringilla sit amet. Ut purus enim, vehicula eu mi eu, aliquet bibendum sapien. Duis felis lorem, suscipit vitae neque eu, tincidunt rutrum quam.
-[Back to the top](#welcome)
+
+[Back to the top.](#welcome)
+
 ### Phil Atio
 Proin consequat, dolor et ultricies sollicitudin, nunc purus sodales orci, at scelerisque enim nunc vitae leo. Vivamus porta ante non lacus tempus, ut blandit magna vulputate. Maecenas id eros pulvinar, maximus erat ac, pretium diam. Phasellus placerat nunc justo, ac semper sem pellentesque at. Aenean justo metus, ullamcorper at mauris vitae, sodales egestas velit. Cras eu sollicitudin nibh, nec vestibulum justo. Nulla ultricies elit eget odio vestibulum, ac lacinia augue venenatis. Donec posuere pellentesque tortor a posuere. Aliquam sapien augue, venenatis et metus non, consectetur finibus ex.
 
 Integer commodo lacus eget mi vulputate blandit. Sed accumsan consequat lacus in venenatis. Mauris a facilisis ex, nec fringilla turpis. Nunc in dignissim mauris, vitae laoreet enim. Pellentesque porttitor volutpat sollicitudin. Sed a efficitur arcu. Fusce tincidunt vitae mauris ut posuere. Phasellus vel eros vehicula libero dapibus suscipit. Sed pretium quis metus quis varius. Vestibulum semper hendrerit ante a posuere. Curabitur id nibh justo. Sed id lorem non tellus venenatis scelerisque. Nulla facilisi. Ut sit amet egestas arcu, sit amet aliquet est.
 
 Duis varius sollicitudin urna, mattis tempus nisl. Vivamus rhoncus, mauris vitae suscipit congue, metus ex imperdiet ligula, et dictum massa massa quis lacus. Mauris vitae nisl vulputate, suscipit ex quis, semper lectus. Duis at dolor est. Quisque posuere ante id convallis aliquam. Praesent id metus vitae mi tristique dapibus eget ac enim. Suspendisse fermentum finibus est sed sodales. Vivamus vitae est luctus massa lacinia facilisis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin vitae vestibulum velit. Suspendisse potenti.
-[Back to the top](#welcome)
+
+[Back to the top.](#welcome)
 <!--End Lorem Ipsum -->
 
 <!--
