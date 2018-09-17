@@ -3,10 +3,11 @@ For faster access, use this url: [https://tinyurl.com/y8cwluhj](https://tinyurl.
 ### Table of Contents
 - [Welcome!](#welcome)
 - [Table of Contents](#table-of-contents)
+<!-- Begin Lorem Ipsum, to test out in-page links.
 - [Lorem Ipsum](#lorem-ipsum)
 - [Sussudio](#phil-atio)
 
-<!-- Begin Lorem Ipsum, to test out in-page links. -->
+
 #### Lorem Ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sodales sapien et turpis convallis, non tempor metus consequat. Donec nec eleifend eros. Praesent gravida vestibulum cursus. Aenean varius facilisis cursus. Sed ex dolor, bibendum vel sapien ac, porta tempor turpis. Sed blandit nulla non diam fermentum ultricies. Sed pulvinar faucibus lectus eu pulvinar. Aenean tempor elit eget diam aliquet tempus. Fusce eget laoreet sapien. Nunc ullamcorper fringilla malesuada. Donec venenatis odio felis, ut efficitur ex lobortis ut. Vivamus feugiat, eros ultrices vehicula commodo, velit neque dictum urna, consectetur iaculis eros diam vel ipsum.
 
@@ -27,7 +28,7 @@ Proin consequat, dolor et ultricies sollicitudin, nunc purus sodales orci, at sc
 Integer commodo lacus eget mi vulputate blandit. Sed accumsan consequat lacus in venenatis. Mauris a facilisis ex, nec fringilla turpis. Nunc in dignissim mauris, vitae laoreet enim. Pellentesque porttitor volutpat sollicitudin. Sed a efficitur arcu. Fusce tincidunt vitae mauris ut posuere. Phasellus vel eros vehicula libero dapibus suscipit. Sed pretium quis metus quis varius. Vestibulum semper hendrerit ante a posuere. Curabitur id nibh justo. Sed id lorem non tellus venenatis scelerisque. Nulla facilisi. Ut sit amet egestas arcu, sit amet aliquet est.
 
 Duis varius sollicitudin urna, mattis tempus nisl. Vivamus rhoncus, mauris vitae suscipit congue, metus ex imperdiet ligula, et dictum massa massa quis lacus. Mauris vitae nisl vulputate, suscipit ex quis, semper lectus. Duis at dolor est. Quisque posuere ante id convallis aliquam. Praesent id metus vitae mi tristique dapibus eget ac enim. Suspendisse fermentum finibus est sed sodales. Vivamus vitae est luctus massa lacinia facilisis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin vitae vestibulum velit. Suspendisse potenti.
-<!-- End Lorem Ipsum -->
+ End Lorem Ipsum -->
 
 <!--
 ## Welcome to GitHub Pages
